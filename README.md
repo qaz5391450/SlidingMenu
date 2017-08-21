@@ -1,6 +1,8 @@
 # SlidingMenu
 动手打造史上最简单的 Recycleview 侧滑菜单
 
+![效果图](https://raw.githubusercontent.com/yhaolpz/SlidingMenu/master/img-folder/ezgif-4-4f5325558d.gif)
+
 第三方库的局限性：
 
  1.菜单文字一旦确定将无法修改
